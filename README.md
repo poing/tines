@@ -1,8 +1,7 @@
 ![](https://gitlab.com/poing/tines/badges/master/coverage.svg)
 ![](https://gitlab.com/poing/tines/badges/master/build.svg)
 
-> **tine** /tʌɪn/ *noun*
-> *plural noun: tines*
+> **tine** /tʌɪn/ *noun* | *plural noun: tines*
 >
 > The prongs of a fork.
 
