@@ -16,7 +16,6 @@
     <filter>
         <whitelist processUncoveredFilesFromWhitelist="true">
             <directory suffix=".php">./source</directory>
-
             <exclude>
                 <directory suffix="Factory.php">./source</directory>
                 <directory suffix=".blade.php">./source</directory>
