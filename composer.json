@@ -1,0 +1,27 @@
+{
+    "name": "poing/tines",
+    "description": "A collection of PHP classes for Laravel.  Various things that don't really justify the creation of a dedicated project.",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "keywords": [],
+    "homepage": "https://github.com/poing/ylem",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian LaVallee",
+            "email": "brian.lavallee@invite-comm.jp"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "Poing\\Tines\\": "source/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+          "Tines\\Test\\": "test/"
+        }
+    }
+}
