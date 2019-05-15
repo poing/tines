@@ -9,6 +9,12 @@ use Poing\Tines\Stub;
 class StubTest extends TestCase
 {
 
+   public function testExample()
+   {
+       $this->assertTrue(true);
+   }
+}
+
   /**
    * @covers Poing\Tines\Stub::probe()
    */
