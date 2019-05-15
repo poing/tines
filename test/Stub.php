@@ -4,9 +4,9 @@ namespace Tines\Test;
 use Poing\Tines\Stub;
 
 /**
- * @coversDefaultClass Poing\Ylem\Models\Characteristic
+ * @coversDefaultClass Poing\Ylem\Stub
  */
-class StubTest extends AbstractTest
+class StubTest
 {
 
   /**
