@@ -6,7 +6,7 @@ use Poing\Tines\Stub;
 /**
  * @coversDefaultClass Poing\Ylem\Stub
  */
-class StubTest
+class StubTest extends TestCase
 {
 
   /**
