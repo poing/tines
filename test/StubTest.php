@@ -2,6 +2,7 @@
 namespace Tines\Test;
 
 use Poing\Tines\Stub;
+use PHPUnit\Framework\TestCase;
 
 /**
  * @coversDefaultClass Poing\Ylem\Stub
@@ -13,7 +14,6 @@ class StubTest extends TestCase
    {
        $this->assertTrue(true);
    }
-}
 
   /**
    * @covers Poing\Tines\Stub::probe()
